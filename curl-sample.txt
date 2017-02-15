@@ -1,0 +1,1 @@
+url "https://api-http.littlebitscloud.cc/v2/devices/00e04c02bca7/output"   -X POST   -H "Authorization: b5478bcd3b5ff33e5337d95b8d183b345358d42703515f45b2b4bdbdcf77a6c2"   -H "Content-type: application/json"   -d '{ "percent": 100, "duration_ms": 3000 }'
